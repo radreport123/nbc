@@ -10,7 +10,7 @@
         <div class="grid">
             <div class="james rf-ccard-content rf-ccard-content-withfullimg" onclick="redirectToPage('/admin/networth')">
               <div class="rf-ccard-img-full-wrapper">
-                <a href="/great/pending-orders">
+                <a href="/admin/thinking">
                   <img class="rf-ccard-img-full" src="/images/Screenshot 2023-07-14 at 11.59.28 PM.png" alt="15-inch MacBook Air, partially open, circular feet, strikingly thin.">
                 </a>
               </div>
